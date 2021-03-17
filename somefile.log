@@ -6,3 +6,6 @@ GET /favicon.ico
 GET /
 GET /
 GET /about
+GET /
+GET /favicon.ico
+GET /newpage
